@@ -26,4 +26,11 @@ public class HelloWorld {
         System.out.println("Hello, World");
     }
 
+    public static void BugFix(String [] args)
+    {
+	return;
+     }
+
 }
+
+
